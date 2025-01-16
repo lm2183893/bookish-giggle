@@ -1,0 +1,21 @@
+{
+  "arch": "x86_64",
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "constrains": [
+    "uvloop >=0.17",
+    "trio >=0.23"
+  ],
+  "depends": [
+    "idna >=2.8",
+    "python >=3.12,<3.13.0a0",
+    "sniffio >=1.1"
+  ],
+  "license": "MIT",
+  "license_family": "MIT",
+  "name": "anyio",
+  "platform": "win",
+  "subdir": "win-64",
+  "timestamp": 1706220288072,
+  "version": "4.2.0"
+}
